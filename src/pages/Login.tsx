@@ -127,7 +127,7 @@ const Login = () => {
               <div className="h-12 w-12 gradient-primary rounded-xl flex items-center justify-center shadow-glow">
                 <Sparkles className="h-6 w-6 text-primary-foreground" />
               </div>
-              <span className="text-2xl font-bold text-gradient">DataPulse</span>
+              <span className="text-2xl font-bold text-gradient">Alpha Insight</span>
             </div>
             
             <div className="space-y-6 mt-20">
@@ -142,9 +142,9 @@ const Login = () => {
 
             <div className="space-y-4 mt-16">
               {[
-                { icon: TrendingUp, text: "Previsões em tempo real" },
+                { icon: TrendingUp, text: "Previsões" },
                 { icon: Sparkles, text: "Insights automatizados" },
-                { icon: TrendingUp, text: "ROI 10x superior" }
+                { icon: TrendingUp, text: "Relatórios e análises" }
               ].map((item, idx) => (
                 <div key={idx} className="flex items-center gap-3 animate-fade-in" style={{ animationDelay: `${idx * 0.2}s` }}>
                   <div className="h-10 w-10 rounded-lg bg-primary/10 flex items-center justify-center">
@@ -157,7 +157,7 @@ const Login = () => {
           </div>
 
           <div className="text-sm text-muted-foreground">
-            © 2024 DataPulse Analytics. Todos os direitos reservados.
+            2025 Chatbot Alpha Insight
           </div>
         </div>
 

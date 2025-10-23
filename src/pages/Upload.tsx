@@ -101,8 +101,8 @@ const Upload = () => {
                 <Sparkles className="h-5 w-5 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gradient">DataPulse Analytics</h1>
-                <p className="text-xs text-muted-foreground">Central de Importação</p>
+                <h1 className="text-xl font-bold text-gradient">Alpha Insight</h1>
+                <p className="text-xs text-muted-foreground">Chatbot de análise de vendas</p>
               </div>
             </div>
             <div className="flex gap-2">

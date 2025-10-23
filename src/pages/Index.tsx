@@ -42,8 +42,8 @@ const Index = () => {
                 <Sparkles className="h-6 w-6 text-primary-foreground animate-pulse" />
               </div>
               <div>
-                <h1 className="text-3xl font-bold text-gradient">DataPulse Analytics</h1>
-                <p className="text-sm text-muted-foreground mt-1">Inteligência Comercial Avançada</p>
+                <h1 className="text-3xl font-bold text-gradient">Alpha Insight</h1>
+                <p className="text-sm text-muted-foreground mt-1">Chatbot de análise de vendas</p>
               </div>
             </div>
             <Button 
@@ -69,7 +69,7 @@ const Index = () => {
               <span className="text-gradient">Alpha Insights</span>
             </h2>
             <p className="text-xl md:text-3xl text-muted-foreground max-w-4xl mx-auto leading-relaxed animate-fade-in" style={{ animationDelay: '0.2s' }}>
-              Converta dados brutos em estratégias vencedoras através de análises preditivas e recomendações personalizadas
+              Converta dados brutos em estratégias através de análises e recomendações personalizadas
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center pt-8 animate-fade-in" style={{ animationDelay: '0.4s' }}>
               <Button 
@@ -112,9 +112,9 @@ const Index = () => {
                 <div className="h-16 w-16 rounded-2xl gradient-secondary flex items-center justify-center mb-6 shadow-glow group-hover:scale-110 group-hover:rotate-6 transition-all">
                   <BarChart3 className="h-8 w-8 text-primary-foreground" />
                 </div>
-                <h3 className="text-3xl font-bold mb-4 text-foreground">Processamento Cognitivo</h3>
+                <h3 className="text-3xl font-bold mb-4 text-foreground">Análises de Venda Empresarial</h3>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  Motor de IA processa consultas complexas e identifica padrões ocultos através de deep learning
+                  Chatbot recebe, interpreta tabelas de vendas e devolve estratégias para sua empresa
                 </p>
               </div>
             </Card>
@@ -127,7 +127,7 @@ const Index = () => {
                 </div>
                 <h3 className="text-3xl font-bold mb-4 text-foreground">Recomendações Inteligentes</h3>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  Obtenha sugestões estratégicas personalizadas com previsões de tendência e análise preditiva
+                  Obtenha sugestões estratégicas personalizadas com previsões de tendência e análise
                 </p>
               </div>
             </Card>
@@ -155,7 +155,7 @@ const Index = () => {
                 ))}
               </div>
               <p className="text-lg text-muted-foreground pt-6">
-                📊 Formatos aceitos: .xlsx, .xls, .csv | ✨ Mínimo: 200 linhas por planilha
+                📊 Formatos aceitos: .xlsx, .xls, .csv
               </p>
             </div>
           </section>
@@ -164,7 +164,7 @@ const Index = () => {
 
       <footer className="border-t border-border/50 mt-24 py-10 relative z-10">
         <div className="container mx-auto px-4 text-center text-base text-muted-foreground">
-          <p>&copy; 2024 DataPulse Analytics - Plataforma de Inteligência Comercial</p>
+          <p>&copy; 2025 Chatbot Alpha Insight</p>
         </div>
       </footer>
     </div>
