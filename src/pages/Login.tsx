@@ -169,7 +169,7 @@ const Login = () => {
               <div className="inline-flex h-16 w-16 items-center justify-center rounded-2xl gradient-primary shadow-glow">
                 <Sparkles className="h-8 w-8 text-primary-foreground" />
               </div>
-              <h1 className="text-3xl font-bold text-gradient">DataPulse Analytics</h1>
+              <h1 className="text-3xl font-bold text-gradient">Alpha Insight</h1>
             </div>
 
             <div className="space-y-2">
