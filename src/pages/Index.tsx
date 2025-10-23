@@ -112,7 +112,7 @@ const Index = () => {
                 <div className="h-16 w-16 rounded-2xl gradient-secondary flex items-center justify-center mb-6 shadow-glow group-hover:scale-110 group-hover:rotate-6 transition-all">
                   <BarChart3 className="h-8 w-8 text-primary-foreground" />
                 </div>
-                <h3 className="text-3xl font-bold mb-4 text-foreground">Análises de Venda Empresarial</h3>
+                <h3 className="text-3xl font-bold mb-4 text-foreground">Análises de Vendas Empresariais</h3>
                 <p className="text-muted-foreground text-lg leading-relaxed">
                   Chatbot recebe, interpreta tabelas de vendas e devolve estratégias para sua empresa
                 </p>

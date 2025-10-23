@@ -144,8 +144,8 @@ const BotPage = () => {
                 <BotIcon className="h-5 w-5 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gradient">DataPulse AI</h1>
-                <p className="text-xs text-muted-foreground">Assistente Inteligente</p>
+                <h1 className="text-xl font-bold text-gradient">Alpha Insight</h1>
+                <p className="text-xs text-muted-foreground">Chatbot para análise de vendas</p>
               </div>
             </div>
             <Button 
